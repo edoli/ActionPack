@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>kr.co.edoli.actionpack</groupId>
+  <artifactId>ActionPack</artifactId>
+  <version>1.0</version>
+  <versioning>
+    <versions>
+      <version>1.0</version>
+    </versions>
+    <lastUpdated>20140520153653</lastUpdated>
+  </versioning>
+</metadata>
